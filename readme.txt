@@ -5,5 +5,6 @@ Creating a new branch is quick.
 
 two test.
 
+Creating a new branch is quick & simple.
 
 hello world. hello everybody.
